@@ -1,0 +1,1 @@
+import{a as e,n as t,t as n}from"./jsx-runtime-D3jfb0Ew.js";import{t as r}from"./useNavigate-CaYMtyO9.js";var i=e(t()),a=n();function o(){let e=r();return(0,i.useEffect)(()=>{e({to:`/home`,replace:!0})},[e]),(0,a.jsx)(`div`,{className:`min-h-screen bg-background`})}export{o as component};

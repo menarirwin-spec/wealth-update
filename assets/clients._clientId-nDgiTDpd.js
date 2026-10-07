@@ -1,0 +1,1 @@
+import{n as e,t}from"./jsx-runtime-D3jfb0Ew.js";import{t as n}from"./clients._clientId-8SU1rN9W.js";e(),t();export{n as notFoundComponent};
